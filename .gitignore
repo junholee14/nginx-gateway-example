@@ -1,1 +1,3 @@
 .idea
+api-server/node_modules
+auth-server/node_modules
